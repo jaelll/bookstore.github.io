@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/common/style.css">
+  <link rel="stylesheet" href="styles/common/header.css">
+  <link rel="stylesheet" href="styles/pages/index.css">
+  <title _msttexthash="981383" _msthash="0">Главная</title>
+</head>
+<body>
+  <header>
+    <a class="BOOKSTORE" align=left href="">
+        <span>B</span>
+        <span>O</span>
+        <span>O</span>
+        <span>K</span>
+        <span>S</span>
+        <span>T</span>
+        <span>O</span>
+        <span>R</span>
+        <span>E</span>
+      </a>
+    <div class="right">
+      <font _mstmutation="1" _msttexthash="8531068" _msthash="1">
+       <li class="ddropdown-top"><a class="ddropdown-top href="#" _mstmutation="1" _istranslated="1">Адреса магазинов</a>
+            <li><a href="#">г. Витебск, пр-к Фрунзе, 14</a></li>
+            <li><a href="">г. Минск, пр-к Независимости, 27</a></li>
+            <li><a href="">г. Гродно, ул. Кирова, 25</a></li>
+            <li><a href="">г. Гомель, ул. Б. Хмельницкого, 49</a></li>
+            <li><a href="">г. Брест, ул. Советская, 11</a></li>
+            <li><a href="">г. Могилёв, ул Белорусская, 63</a></li>
+          </ul>
+        <a href="#" _mstmutation="1" _istranslated="1">Мои заказы</a> 
+        <a href="CONNECT.html" _mstmutation="1" _istranslated="1">Обратная связь</a> 
+        <a href="CONTACTS.html" _mstmutation="1" _istranslated="1">Контакты</a> 
+        <a href="ABOUTUS.html" _mstmutation="1" _istranslated="1">О нас</a>
+        </font>
+    </div>
+  </header>
+  
+  <div class="container">
+    <div class="content">
+      <h1><a href="CONNECT.html" _msttexthash="1175525" _msthash="2">О нас</a></h1>
+        <p _msttexthash="15818179" _msthash="3"> ..... </p>
+         <button _msttexthash="2593357" _msthash="4">Подробнее</button>
+    </div>
+  </div>
+
+</body></html>
